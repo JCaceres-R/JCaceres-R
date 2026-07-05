@@ -9,11 +9,11 @@
 [![Email](https://img.shields.io/badge/Gmail-scaceresr70%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:scaceresr70@gmail.com)
 
 </div>
----
+
 
 ##  Sobre mí
 
-Me muevo con comodidad entre el mundo del **hardware/control** (PID, protocolos industriales, sistemas embebidos) y el del **software/datos** (Machine Learning, arquitecturas RAG, análisis predictivo). Formación complementaria en Data Science (Alura One) y Asistencia Administrativa (SENA).
+Me muevo con comodidad entre el mundo del **hardware/control** (PID, protocolos industriales, sistemas embebidos) y el del **software/datos** (Machine Learning, arquitecturas RAG, análisis predictivo). Formación complementaria en Data Science y AI (Alura One) y Asistencia Administrativa (SENA).
 
 -  Actualmente construyendo un **agente RAG multi-herramienta** para automatización industrial.
 -  Profundizando en **redes ART (Adaptive Resonance Theory)** y detección de anomalías con autoencoders.
