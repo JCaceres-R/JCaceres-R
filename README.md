@@ -4,12 +4,11 @@
 
 ### Ingeniero Electrónico | Data & AI Engineering | Industrial IoT
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johan-sebastian-caceres-rodriguez-5b19a135b)
 [![GitHub](https://img.shields.io/badge/GitHub-JCaceres--R-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JCaceres-R)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Gmail-scaceresr70%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:scaceresr70@gmail.com)
 
 </div>
-
 ---
 
 ##  Sobre mí
