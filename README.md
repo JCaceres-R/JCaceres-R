@@ -2,7 +2,7 @@
 
 # ¡Hola! Soy Johan Sebastián Cáceres Rodríguez 👋
 
-### Ingeniero Electrónico (en formación) | Data & AI Engineering | Industrial IoT
+### Ingeniero Electrónico | Data & AI Engineering | Industrial IoT
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-JCaceres--R-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JCaceres-R)
@@ -12,16 +12,14 @@
 
 ---
 
-## 🧠 Sobre mí
-
-Estudiante de **10.º semestre de Ingeniería Electrónica** en la Universidad Distrital Francisco José de Caldas (Bogotá, Colombia), trabajando actualmente con **Auvix**, especialistas en **Industrial IoT y Smart Grids**, donde combino documentación técnica, ingeniería de datos y diseño de pipelines de IA.
+##  Sobre mí
 
 Me muevo con comodidad entre el mundo del **hardware/control** (PID, protocolos industriales, sistemas embebidos) y el del **software/datos** (Machine Learning, arquitecturas RAG, análisis predictivo). Formación complementaria en Data Science (Alura One) y Asistencia Administrativa (SENA).
 
-- 🔭 Actualmente construyendo un **agente RAG multi-herramienta** para automatización industrial.
-- 🌱 Profundizando en **redes ART (Adaptive Resonance Theory)** y detección de anomalías con autoencoders.
-- 🎯 Interesado en la intersección entre **IoT industrial, Smart Grids y sistemas de IA aplicada**.
-- ⚡ Fun fact: además del código, sueldo cables — he armado circuitos de adquisición de señales biomédicas (ECG, EMG, EEG) y controlado motores/servos desde una Raspberry Pi Pico 2W.
+-  Actualmente construyendo un **agente RAG multi-herramienta** para automatización industrial.
+-  Profundizando en **redes ART (Adaptive Resonance Theory)** y detección de anomalías con autoencoders.
+-  Interesado en la intersección entre **IoT industrial, Smart Grids y sistemas de IA aplicada**.
+-  Fun fact: además del código, sueldo cables — he armado circuitos de adquisición de señales biomédicas (ECG, EMG, EEG) y controlado motores/servos desde una Raspberry Pi Pico 2W.
 
 ---
 
@@ -54,7 +52,7 @@ Me muevo con comodidad entre el mundo del **hardware/control** (PID, protocolos 
 
 ---
 
-## 🚀 Proyectos destacados
+##  Proyectos destacados
 
 ### 🏭 [Industrial RAG Router](https://github.com/JCaceres-R/industrial-rag-router)
 Agente multi-herramienta construido con **LangGraph** que enruta consultas entre recuperación semántica (RAG sobre manuales técnicos, ej. control PID) y análisis numérico determinístico sobre datos tabulares (Pandas). Pensado para entornos de automatización industrial, con despliegue en **OCI Ampere A1** y frontend en Streamlit.
