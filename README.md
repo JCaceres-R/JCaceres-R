@@ -1,51 +1,51 @@
+
 <div align="center">
 
-# ¡Hola! Soy Johan Caceres 👋
+# Hi! I'm Johan Caceres 👋
 
-### Ingeniero Electrónico | Data & AI Engineering | Industrial IoT
+### Electronic Engineer | Data & AI Engineering | Industrial IoT
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johan-sebastian-caceres-rodriguez-5b19a135b)
-[![GitHub](https://img.shields.io/badge/GitHub-JCaceres--R-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JCaceres-R)
 [![Gmail](https://img.shields.io/badge/Gmail-scaceresr70%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:scaceresr70@gmail.com)
 
-![Profile views](https://komarev.com/ghpvc/?username=JCaceres-R&color=blueviolet&style=flat-square&label=Visitas+al+perfil)
+![Profile views](https://komarev.com/ghpvc/?username=JCaceres-R&color=blueviolet&style=flat-square&label=Profile+views)
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mí
+## 👨‍💻 About me
 
-Me muevo con comodidad entre el mundo del **hardware/control** (PID, protocolos industriales, sistemas embebidos) y el del **software/datos** (Machine Learning, arquitecturas RAG, análisis predictivo). Formación complementaria en Data Science y AI (Alura One) y Asistencia Administrativa (SENA).
+I move comfortably between the world of **hardware/control** (PID, industrial protocols, embedded systems) and **software/data** (Machine Learning, RAG architectures, predictive analytics). Complementary training in Data Science and AI (Alura One) and Administrative Assistance (SENA).
 
 ```text
 const johan = {
-    campo:         "Electrónica + IA aplicada",
-    trabajoActual: "Auvix — Industrial IoT & Smart Grids",
-    enfoque:       ["RAG Agents", "Deep Learning", "Embedded Systems", "Telecom"],
-    filosofia:     "Si no lo puedo explicar simple, no lo entendí lo suficiente"
+    field:         "Electronics + Applied AI",
+    currentJob:   "Auvix — Industrial IoT & Smart Grids",
+    focus:        ["RAG Agents", "Deep Learning", "Embedded Systems", "Telecom"],
+    philosophy:   "If I can't explain it simply, I haven't understood it well enough"
 };
 ```
 
-- 🔭 Actualmente construyendo un **agente RAG multi-herramienta** para automatización industrial.
-- 🌱 Profundizando en **PyTorch**, **redes ART (Adaptive Resonance Theory)** y detección de anomalías con autoencoders.
-- 🎯 Interesado en la intersección entre **IoT industrial, Smart Grids y sistemas de IA aplicada**.
-- ⚡ Fun fact: además del código, sueldo cables — he armado circuitos de adquisición de señales biomédicas (ECG, EMG, EEG) y controlado motores/servos desde una Raspberry Pi Pico 2W.
+- 🔭 Currently building a **multi-tool RAG agent** for industrial automation.
+- 🌱 Diving deeper into **PyTorch**, **ART networks (Adaptive Resonance Theory)** and anomaly detection with autoencoders.
+- 🎯 Interested in the intersection of **industrial IoT, Smart Grids and applied AI systems**.
+- ⚡ Fun fact: besides code, I also solder wires — I've built biomedical signal acquisition circuits (ECG, EMG, EEG) and controlled motors/servos from a Raspberry Pi Pico 2W.
 
 ---
 
-## 🛠️ Stack técnico
+## 🛠️ Tech stack
 
 <div align="center">
 
-**Lenguajes & Core**
+**Languages & Core**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-**IA / Machine Learning / Deep Learning**
+**AI / Machine Learning / Deep Learning**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -60,7 +60,7 @@ const johan = {
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-**Cloud, Redes & Herramientas**
+**Cloud, Networking & Tools**
 
 ![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
@@ -70,19 +70,19 @@ const johan = {
 
 </div>
 
-| Área | Herramientas y temas |
+| Area | Tools & Topics |
 |---|---|
 | **Deep Learning** | PyTorch, TensorFlow/Keras, 1D-CNN, MLP, SOM, autoencoders |
-| **ML clásico** | Scikit-learn, Bayesian classifiers, QDA/LDA, SMOTE, PCA/t-SNE |
-| **Agentic AI / RAG** | LangGraph, LangChain, FAISS/ChromaDB, Groq API, routing determinístico vs. semántico |
-| **Redes y Telecomunicaciones** | TCP/IP (Reno, Cubic, BBR), IPv6, DHCP, 5G NR, OFDM, MIMO, Okumura-Hata, GNS3, Wireshark |
-| **Embebidos / IoT** | Raspberry Pi Pico 2W (MicroPython), PWM, servos, motores DC, protocolos industriales |
-| **Cloud & Infra** | OCI (Oracle Cloud Infrastructure), pipelines de documentación técnica multi-formato |
-| **Documentación técnica** | LaTeX (Overleaf), Markdown, HTML, CSV para bases de conocimiento y agentes RAG |
+| **Classic ML** | Scikit-learn, Bayesian classifiers, QDA/LDA, SMOTE, PCA/t-SNE |
+| **Agentic AI / RAG** | LangGraph, LangChain, FAISS/ChromaDB, Groq API, deterministic vs. semantic routing |
+| **Networking & Telecom** | TCP/IP (Reno, Cubic, BBR), IPv6, DHCP, 5G NR, OFDM, MIMO, Okumura-Hata, GNS3, Wireshark |
+| **Embedded / IoT** | Raspberry Pi Pico 2W (MicroPython), PWM, servos, DC motors, industrial protocols |
+| **Cloud & Infra** | OCI (Oracle Cloud Infrastructure), multi-format technical documentation pipelines |
+| **Technical documentation** | LaTeX (Overleaf), Markdown, HTML, CSV for knowledge bases and RAG agents |
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -93,62 +93,63 @@ const johan = {
 
 </div>
 
-> Nota: estas tarjetas se generan dinámicamente desde servicios públicos (github-readme-stats / streak-stats). Se actualizan solas — no requieren mantenimiento manual.
+> Note: these cards are generated dynamically from public services (github-readme-stats / streak-stats). They update automatically — no manual maintenance required.
 
 ---
 
-## 🚀 Proyectos destacados
+## 🚀 Highlighted projects
 
 ### 🏭 [Industrial RAG Router](https://github.com/JCaceres-R/industrial-rag-router)
-Agente multi-herramienta construido con **LangGraph** que enruta consultas entre recuperación semántica (RAG sobre manuales técnicos, ej. control PID) y análisis numérico determinístico sobre datos tabulares (Pandas). Pensado para entornos de automatización industrial, con despliegue en **OCI Ampere A1** y frontend en Streamlit.
-> El proyecto insignia de mi trabajo en Auvix: conecta directamente la ingeniería de contenido técnico con la infraestructura de un agente de IA en producción.
+Multi-tool agent built with **LangGraph** that routes queries between semantic retrieval (RAG over technical manuals, e.g. PID control) and deterministic numerical analysis over tabular data (Pandas). Designed for industrial automation environments, deployed on **OCI Ampere A1** with a Streamlit frontend.
+> The flagship project of my work at Auvix: directly connects technical content engineering with the infrastructure of an AI agent in production.
 
 `LangGraph` `FAISS/ChromaDB` `Groq API` `Streamlit` `OCI`
 
 ### ⚙️ [Paderborn Bearing Fault Diagnosis](https://github.com/JCaceres-R/paderborn-bearing-fault-diagnosis)
-Pipeline end-to-end para diagnóstico de fallas en rodamientos sobre el dataset de Paderborn: extracción de features, **Self-Organizing Maps (SOM)** y deep learning, validado con **Leave-One-Bearing-Out (LOBO)** para garantizar generalización real entre rodamientos y evitar fugas de información entre condiciones de operación.
+End-to-end pipeline for bearing fault diagnosis on the Paderborn dataset: feature extraction, **Self-Organizing Maps (SOM)** and deep learning, validated with **Leave-One-Bearing-Out (LOBO)** to guarantee real generalization across bearings and avoid information leakage between operating conditions.
 
 `Deep Learning` `SOM` `Signal Processing` `Python`
 
 ### 📈 [TelecomX Churn Prediction](https://github.com/JCaceres-R/telecomx-churn-prediction)
-Modelo predictivo de cancelación de clientes (churn): comparación entre Regresión Logística y Random Forest, con selección justificada por negocio del modelo con mejor **Recall (78.8%)** sobre la clase de interés, priorizando minimizar falsos negativos.
+Customer churn prediction model: comparison between Logistic Regression and Random Forest, with a business-justified selection of the model with the best **Recall (78.8%)** on the target class, prioritizing minimizing false negatives.
 
 `scikit-learn` `Logistic Regression` `Random Forest`
 
 ### 📊 [TelecomX Churn Analysis](https://github.com/JCaceres-R/telecomx-churn-analysis)
-EDA completo previo al modelo de churn: ETL sobre JSON anidado, identificación de los factores de mayor riesgo (contrato mes-a-mes, pago por Electronic Check) que sustentan las decisiones de modelado posteriores.
+Full EDA prior to the churn model: ETL over nested JSON, identification of the highest-risk factors (month-to-month contract, Electronic Check payment) that support later modeling decisions.
 
 `Pandas` `EDA` `Data Visualization`
 
 ### 🛒 [Alura Store Data Analysis](https://github.com/JCaceres-R/alura-store-data-analysis)
-Análisis comparativo de desempeño entre 4 tiendas (ingresos, concentración de ventas, satisfacción de clientes, costos logísticos) con recomendación de negocio sustentada en datos.
+Comparative performance analysis across 4 stores (revenue, sales concentration, customer satisfaction, logistics costs) with a data-driven business recommendation.
 
 `Business Intelligence` `Pandas` `Matplotlib`
 
 ### 🖥️ [SPARCV8 over 4](https://github.com/JCaceres-R/SPARCV8over4_U)
-Implementación y análisis de la arquitectura **SPARCv8** sobre un diseño de hardware personalizado, en el marco de Arquitectura de Computadores.
+Implementation and analysis of the **SPARCv8** architecture on a custom hardware design, within the context of Computer Architecture.
 
 `Computer Architecture` `Hardware Design`
 
 ---
 
-## 📚 Otros trabajos relevantes
+## 📚 Other relevant work
 
-- **Sistema embebido web-controlado** (Raspberry Pi Pico 2W, MicroPython): control de servo SG90, motor DC (L293D) y salida PWM independiente.
-- **Detección de anomalías en tráfico de red** con autoencoders sobre el dataset CICIDS2017 (propuesta de tesis).
-- **Redes ART (Adaptive Resonance Theory)**: arquitectura, parámetro de vigilancia y comparación frente a CNNs en aprendizaje continuo.
-- **Mantenimiento predictivo** con el dataset AI4I 2020 — trabajo colaborativo con estado del arte y metodología.
-- **Laboratorios de telemática**: control de congestión TCP (Cubic/Reno/BBR) y simulación de cobertura 5G NR (HTZ Communications, XIRIO Online).
+- **Web-controlled embedded system** (Raspberry Pi Pico 2W, MicroPython): control of SG90 servo, DC motor (L293D) and independent PWM output.
+- **Network traffic anomaly detection** with autoencoders on the CICIDS2017 dataset (thesis proposal).
+- **ART networks (Adaptive Resonance Theory)**: architecture, vigilance parameter and comparison against CNNs in continual learning.
+- **Predictive maintenance** using the AI4I 2020 dataset — collaborative work with state-of-the-art review and methodology.
+- **Telematics labs**: TCP congestion control (Cubic/Reno/BBR) and 5G NR coverage simulation (HTZ Communications, XIRIO Online).
 
 ---
 
-## 📫 Contacto
+## 📫 Contact
 
 <div align="center">
 
-Siempre abierto a conversar sobre **IA aplicada a industria, IoT, Smart Grids** o proyectos de datos.
+Always open to talk about **AI applied to industry, IoT, Smart Grids** or data projects.
 
-[![LinkedIn](https://img.shields.io/badge/Conectemos_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johan-sebastian-caceres-rodriguez-5b19a135b)
-[![Gmail](https://img.shields.io/badge/Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:scaceresr70@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johan-sebastian-caceres-rodriguez-5b19a135b)
+[![Gmail](https://img.shields.io/badge/Write_me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:scaceresr70@gmail.com)
 
 </div>
+```
